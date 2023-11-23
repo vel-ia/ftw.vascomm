@@ -1,0 +1,21 @@
+# Judul Dokumen
+Dokumentasi perangkat lunak yang bagus
+
+## Introduction
+Software ini dibuat untuk meringankan beban manusia
+
+### Fitur Utama
+- Mendaftarkan pasien pada rumah sakit
+- Membayar biaya _perawatan_
+- **Booking kamar rumah sakit**
+- ~~Membeli obat~~
+
+### System Requirements
+| Komponen | Versi |
+| ------ | ------ |
+| PHP | 7.1 |
+| NodeJS | 12.0 |
+| MariaDB | 8.0 |
+
+> Versi PHP boleh lebih tinggi
+
