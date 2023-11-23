@@ -1,0 +1,15 @@
+{
+    "nama": "Velia Handayani",
+    "usia": 25,
+    "makanan_fav": [
+        "nasi_goreng",
+        "bakso",
+        "mie_ayam"
+    ],
+    "riwayat_pendidikan": {
+        "sd": "SDN Larangan 1",
+        "smp": "SMP Negeri 3 Tangerang",
+        "sma": "SMA Negeri 1 Jakarta"
+    }
+}
+
